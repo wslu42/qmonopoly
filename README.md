@@ -4,7 +4,7 @@ A quantum monopoly game
 ## The idea
 Combining with the well-known fable "The Little Prince", we present a quantum online board game allowing quantum novices play together during the pandemic!
 
-** This game was devleoped during the Qiskit Fall Fest Hachathon and was selected as Second Place award among 6 other projects in the [Taiwan SQCS Quantum Hackathon, 2021](https://qiskitfallfest.hypeinnovation.com/servlet/hype/IMT?documentTableId=396317851979055264&userAction=Browse&templateName=&documentId=1a0c3bc2a3e054f2f9fcce91f3584020)
+(This game was devleoped during the Qiskit Fall Fest Hachathon and was selected as Second Place award among 6 other projects in the [Taiwan SQCS Quantum Hackathon, 2021](https://qiskitfallfest.hypeinnovation.com/servlet/hype/IMT?documentTableId=396317851979055264&userAction=Browse&templateName=&documentId=1a0c3bc2a3e054f2f9fcce91f3584020))
 
 ## Teammates
 - 精誠中學 辛珮瑄
