@@ -5,6 +5,11 @@ A quantum monopoly game
 Combining with the well-known fable "The Little Prince", we present a quantum online board game allowing quantum novices play together during the pandemic!
 
 ## Teammates
+惠文高中 郭峻維
+精誠中學 辛珮瑄
+陽明高中 謝卓翰
+精誠中學 林祐平
+建國中學 賴昱錡
 
 ## The issue description
 As the fundamental building block for quantum information science, the idea of Quantum Circuits language is usually confusing for beginners.
