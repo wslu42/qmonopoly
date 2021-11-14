@@ -1,17 +1,19 @@
 # QMonopoly
 A quantum monopoly game
 
+![image](https://user-images.githubusercontent.com/29524895/141688811-42082c55-de54-4a8f-834e-708b4042ca19.png)
+
 ## The idea
 Combining with the well-known fable "The Little Prince", we present a quantum online board game allowing quantum novices play together during the pandemic!
 
 (This game was devleoped during the Qiskit Fall Fest Hachathon and was selected as Second Place award among 6 other projects in the [Taiwan SQCS Quantum Hackathon, 2021](https://qiskitfallfest.hypeinnovation.com/servlet/hype/IMT?documentTableId=396317851979055264&userAction=Browse&templateName=&documentId=1a0c3bc2a3e054f2f9fcce91f3584020))
 
 ## Teammates
-- 精誠中學 辛珮瑄
-- 精誠中學 林祐平
-- 惠文高中 郭峻維
-- 建國中學 賴昱錡
-- 陽明高中 謝卓翰
+- 精誠中學 林祐平: Art design and initial game dev 
+- 精誠中學 辛珮瑄: Chance/Fortune system design and initial game dev
+- 惠文高中 郭峻維: Game flow and map design
+- 建國中學 賴昱錡: Bank system design
+- 陽明高中 謝卓翰: Host system design
 
 ## The issue description
 As the fundamental building block for quantum information science, the idea of Quantum Circuits language is usually confusing for beginners.
