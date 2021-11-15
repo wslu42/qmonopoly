@@ -26,5 +26,28 @@ To make this game suitable to play with adolescents and adults alike, we derived
 ## Rule 101
 The players are going to collect quantum logic gates (X, H, CX gates) from the monopoly-like game map to put together some quantum circuits which generate the given challenge quantum state set (|000> + |011>, for example). The player will be rewarded with a rose when solved a challenge, and the first player who collected 5 roses will be the winner!
 
+## Procedure at a glance:
+
+### Preparation phase
+
+### Main game phase
+After the preparation phase, the main game phase follows and all players proceed in turns. During each turn a player will:
+1. Throw a plain dice () or initiate remote dice to use his/her gates to go to projected spots based on the measurement of his/her quantum circuit.
+2. 
+
+
+### Further explaination
+1. How the dice work:
+- A plain dice: a simple random 8-faced dice.
+- Remote dice: Player are allow to use gates from their hand in a 3-qubits circuit to project themselves to up to 2 particular spots (the ones closest to the player) predicted by the measurement results. For example if the user puts an H gate at qubit 0 and CX target at qubit 1 and control at qubit 0, then he/she can move to two spots which are 1 and 4 steps away from his/her current location (000 gives 1 while 011 gives 4)
+2. 
+
+
+![image](https://user-images.githubusercontent.com/29524895/141854425-dccae9d1-2fdd-4fe3-9501-efca969055fd.png)
+
+
+### Winning condition
+
+
 ## Looking for feedbacks!
 Simple as it firstly looks like, the rule and map of this game have been tested and modified extensively to balance and improve playing experience. From the amount of gates on the map, various fortune/chance cards serve as useful (and sometimes surprise!) tools to assist competition, and also the winning condition of rose scores are carefully chosen after our thorough tests. This game is, nevertheless, still under testing and we would like to hear everyone's comment to make it more fun and even competitive. Please try it out and give us some thoughts/feedbacks!
