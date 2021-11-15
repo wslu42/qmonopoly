@@ -34,10 +34,10 @@ The players are going to collect quantum logic gates (X, H, CX gates) from the m
 After the preparation phase, the main game phase follows and all players proceed in turns. During each turn a player will:
 1. Throw a plain dice () or initiate remote dice to use his/her gates to go to projected spots based on the measurement of his/her quantum circuit.
 2. Interact with the map depends on the spot landed
-- The gate spot: Collect corresponding gates. If there's a x2 then got doubled gates. If the player is in superpositioned/entangled states then he/she may collect all gates based on the spots that he/she landed on.
+- The Gate spot: Collect corresponding gates. If there's a x2 then got doubled gates. If the player is in superpositioned/entangled states then he/she may collect all gates based on the spots that he/she landed on.
 - The "Fortune/Chance" spot: Activate Fortune/Chance mode and draw one card from the corresponding deck. All Fortune/Chance cards can be stored to be used later in the game. There is no limitation in how many cards may be used during each turn, and players may activate a card at any moment during the game as long as it's his/her turn.
-- The stair spot: Activate storymode and draw one story card from the deck.
-3. Propose one quantum circuit solution to the given challenge and get one resoe as a reward. Can only solve one challenge per turn.
+- The Stair spot: Activate storymode and draw one story card from the deck.
+3. Propose one quantum circuit solution to the given challenge and get one rose as a reward. Can only solve one challenge per turn.
 4. Decide how many roses to be stored into or move out from greenhouse. The number of roses in greenhouse are counted as x1.2 times during the end of his/her turn due to getting better care. (note: the factor only counted once during the turn and do not stack between turns - i.e. if a player has 10 roses in greenhouse and stay for two turns, then the number counted as 12 roses throughout the turns instead of 12 in the first turn and 14 in the second turn.) Rose counts follows four-in-five rule.
 5. Decide if he/she want to break the lock to other player's greenhouse by submitting a quantum circuit. If the lock-picking is successful then he/she can steal 70% of the roses in the greenhouse. (steal counts follows four-in-five rule) No roses outside of the greenhouse can be stolen.
 
