@@ -26,7 +26,7 @@ To make this game suitable to play with adolescents and adults alike, we derived
 ## Rule 101
 The players are going to collect quantum logic gates (X, H, CX gates) from the monopoly-like game map to put together some quantum circuits which generate the given challenge quantum state set (|000> + |011>, for example). The player will be rewarded with a rose when solved a challenge, and the first player who collected 5 roses will be the winner!
 
-## Procedure at a glance:
+## Procedure:
 
 ### Preparation phase
 
@@ -53,6 +53,21 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 - 各個玩家皆可透過手邊的量子閘，最多嘗試兩次量子電路猜到其他玩家的溫室密碼，以進入溫室偷取玫瑰
 - 在偷取玫瑰後，玩家在下一輪須因犯法而關進牢中一輪（一旦偷皆需要關），不可進行擲骰、解題、偷竊等一切行為
 
+### Cards at a glance
+#### Fortune cards
+1. 
+#### Chance cards
+1. 
+#### Story cards
+1. 在與玫瑰分離時，小王子終於明白:我愛你，所以待不待在彼此身邊，不再重要(CX+X)
+2. 如果你愛著一朵盛開在浩瀚繁星裡的花，那麼，當你抬頭仰望繁星時，便會感到心滿意足(CX,X,H)
+3. 小王子理解到甚麼才是真正的馴服，一次一次的伸出觸角去摸索，接著找到付出愛的方式(H+X)
+4. 小王子從狐狸身上學到"人只有用心看才能看清一切；最重要的事務室眼睛看不出來的(H)
+5. 小王子領悟到了甚麼是愛，狐狸對他說"你在玫瑰身上所花費的時間，讓你的玫瑰變得如此重要(X)
+6. 蛇對小王子說“孤單跟你在哪身邊有誰無關”(X)
+7. 小王子了解到解除孤單的方法並不是逃離並不是把自己塞進人群裡，而是學著面對接受自己感到孤單這件事(CX+H)
+8. 小王子對其他玫瑰說"當然一個路人可能會覺得你們和我的玫瑰是一樣的，但是對我而言，我的玫瑰比你們更重要，因為他是我澆灌的，因為他是我的玫瑰。"(CX,X,H)
+9. 狐狸告訴小王子"當你遇見無可取代的人，請用盡一輩子的時間與力氣去愛。"(H+X)
 
 ## Looking for feedbacks!
 Simple as it firstly looks like, the rule and map of this game have been tested and modified extensively to balance and improve playing experience. From the amount of gates on the map, various fortune/chance cards serve as useful (and sometimes surprise!) tools to assist competition, and also the winning condition of rose scores are carefully chosen after our thorough tests. This game is, nevertheless, still under testing and we would like to hear everyone's comment to make it more fun and even competitive. Please try it out and give us some thoughts/feedbacks!
