@@ -47,7 +47,7 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 ### Further explanation
 1. How the dice work:
 - A plain dice: a simple random 8-faced dice.
-- Remote dice: Player are allow to use gates from their hand in a 3-qubits circuit to project themselves to up to 2 particular spots (the ones closest to the player) predicted by the measurement results. For example if the user puts an H gate at qubit 0 and CX target at qubit 1 and control at qubit 0, then he/she can move to two spots which are 1 and 4 steps away from his/her current location (000 gives 1 while 011 gives 4)
+- Remote dice: Player are allow to use gates from their hand in a 3-qubits circuit to project themselves to up to 2 particular spots (the ones closest to the player) predicted by the measurement results. For example if the user puts an H gate at qubit 0 and CX target at qubit 1 and control at qubit 0, then he/she can move to two spots which are 1 and 4 steps away from his/her current location (000 gives 1 while 011 gives 4) The player will then be able to perform up to two interactions as described in the second step during the main game phase during the same turn (collect two types of gates/draw a card and collect a gate etc).  
 2. How the greenhouse lock (and lock-picking) works
 - 每位玩家在遊戲的一開始皆會收到主持方給的溫室密碼
 - 各個玩家皆可透過手邊的量子閘，最多嘗試兩次量子電路猜到其他玩家的溫室密碼，以進入溫室偷取玫瑰
