@@ -24,11 +24,14 @@ Kids love games, and in this game we adopted the game mechanism from the well-kn
 To make this game suitable to play with adolescents and adults alike, we derived our story line from the fable "The Little Prince".
 
 ## Rule 101
-The players are going to collect quantum logic gates (X, H, CX gates) from the monopoly-like game map to put together some quantum circuits which generate the given challenge quantum state set (|000> + |011>, for example). The player will be rewarded with a rose when solved a challenge, and the first player who collected 5 roses will be the winner!
+The players are going to collect quantum logic gates (X, H, CX gates) from the monopoly-like game map to put together some quantum circuits which generate the given challenge quantum state set (|000> + |011>, for example). The player will be rewarded with a rose when solved a challenge, and the first player who collected 10 roses will be the winner!
 
 ## Procedure:
 
 ### Preparation phase
+- The host assigns one challenge question (a combination 1 or 2 of quantum states can be obtained from 3-qubit quantum circuits) to each player
+- Each player decide one number between 1-8 as their passcode to the greenhouse. Be aware that other player can guess your number by putting together a quantum circuit generate the binary state maps to your number. (For example, if a player uses X gate on qubit two and generate 010, that means he/she "guess" your passcode to be "3" (we started from 1 instead of 0 in the passcode))
+- Each player picks one token and decide the playing sequence (from the youngest to the oldest), and the host arrange the sequence of the token by the map accordingly as a reminder.
 
 ### Main game phase
 After the preparation phase, the main game phase follows and all players proceed in turns. During each turn a player will:
@@ -73,14 +76,13 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 - “STEERING card” Reverse the order of players (can be saved for later use)
 - “SNATCH card” Steal one type of gate from one other player's hand (the target player will be left with none of that type of gates; can be saved for later use)
 
-
 #### Story cards
 1. 在與玫瑰分離時，小王子終於明白:我愛你，所以待不待在彼此身邊，不再重要(CX+X)
-2. 如果你愛著一朵盛開在浩瀚繁星裡的花，那麼，當你抬頭仰望繁星時，便會感到心滿意足(CX,X,H)
+2. “If you love a flower that lives on a star, it is sweet to look at the sky at night. All the stars are a-bloom with flowers...” (CX,X,H)
 3. 小王子理解到甚麼才是真正的馴服，一次一次的伸出觸角去摸索，接著找到付出愛的方式(H+X)
 4. 小王子從狐狸身上學到"人只有用心看才能看清一切；最重要的事務室眼睛看不出來的(H)
-5. 小王子領悟到了甚麼是愛，狐狸對他說"你在玫瑰身上所花費的時間，讓你的玫瑰變得如此重要(X)
-6. 蛇對小王子說“孤單跟你在哪身邊有誰無關”(X)
+5. "It is the time you have wasted for your rose that makes your rose so important." (X)
+6. "You - you alone will have the stars as no one else has them...In one of the stars I shall be living. In one of them I shall be laughing. And so it will be as if all the stars were laughing, when you look at the sky at night...You - only you - will have stars that can laugh." (X)
 7. 小王子了解到解除孤單的方法並不是逃離並不是把自己塞進人群裡，而是學著面對接受自己感到孤單這件事(CX+H)
 8. 小王子對其他玫瑰說"當然一個路人可能會覺得你們和我的玫瑰是一樣的，但是對我而言，我的玫瑰比你們更重要，因為他是我澆灌的，因為他是我的玫瑰。"(CX,X,H)
 9. 狐狸告訴小王子"當你遇見無可取代的人，請用盡一輩子的時間與力氣去愛。"(H+X)
