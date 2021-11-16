@@ -35,7 +35,7 @@ After the preparation phase, the main game phase follows and all players proceed
 1. Throw a plain dice () or initiate remote dice to use his/her gates to go to projected spots based on the measurement of his/her quantum circuit.
 2. Interact with the map depends on the spot landed
 - The Gate spot: Collect corresponding gates. If there's a x2 then got doubled gates. If the player is in superpositioned/entangled states then he/she may collect all gates based on the spots that he/she landed on.
-- The "Fortune/Chance" spot: Activate Fortune/Chance mode and draw one card from the corresponding deck. All Fortune/Chance cards can be stored to be used later in the game. There is no limitation in how many cards may be used during each turn, and players may activate a card at any moment during the game as long as it's his/her turn.
+- The "Fortune/Chance" spot: Activate Fortune/Chance mode and draw one card from the corresponding deck. Some Fortune/Chance cards may be saved to be used later in the game. There is no limitation in how many cards may be used during each turn, and players may activate a card at any moment during the game as long as it's his/her turn.
 - The Stair spot: Activate storymode and draw one story card from the deck, the story mode rewards gates immediately to the player once the card is drawn.
 3. Propose one quantum circuit solution to the given challenge and get one rose as a reward. Can only solve one challenge per turn.
 4. Decide how many roses to be stored into or move out from greenhouse. The number of roses in greenhouse are counted as x1.2 times during the end of his/her turn due to getting better care. (note: the factor only counted once during the turn and do not stack between turns - i.e. if a player has 10 roses in greenhouse and stay for two turns, then the number counted as 12 roses throughout the turns instead of 12 in the first turn and 14 in the second turn.) Rose counts follows four-in-five rule.
@@ -55,9 +55,24 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 
 ### Cards at a glance
 #### Fortune cards
-1. 
+- go to the nearest “X” gate (up to player) x2
+- go to the nearest “H” gate (up to player) x2
+- go to the nearest “CX” gate (up to player) x2
+- Meet the naughty foxes and take a break for one turn to protect your roses
+- Fell down on the way (Back three spots)
+- Unexpected surge of signal crosstalks and reduce the number of each gates on hand by one for the player.
+
 #### Chance cards
-1. 
+- "SWAP card": Change the challenge question (can be saved for later use)
+- "RESET card": Meet the pilot and take his plane back to “GO” on the map (can be saved for later use)
+- “ANGEL card” Can choose any one gate you want and add to your hand, all player also get one as well (can be saved for later use)
+- “WISH card” Can move to any one spot on the map as you wish
+- “BOSS card” For a certain type of gate, you can get two-thirds of the number of that gate within all players' hands. (gate count follows four-in-five rule; can be saved for later use)
+- “REWARD card” Won first place during a rose beauty pageant and collect double gates for one round when land on the map (can be saved for later use)
+- “STEERING card” Reverse the order of players (can be saved for later use)
+- “SNATCH card” Steal one type of gate from one other player's hand (the target player will be left with none of that type of gates; can be saved for later use)
+- “LOVE card” Roses in the greenhouse enables to thrive 
+
 #### Story cards
 1. 在與玫瑰分離時，小王子終於明白:我愛你，所以待不待在彼此身邊，不再重要(CX+X)
 2. 如果你愛著一朵盛開在浩瀚繁星裡的花，那麼，當你抬頭仰望繁星時，便會感到心滿意足(CX,X,H)
