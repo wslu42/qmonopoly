@@ -54,6 +54,7 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 - 在偷取玫瑰後，玩家在下一輪須因犯法而關進牢中一輪（一旦偷皆需要關），不可進行擲骰、解題、偷竊等一切行為
 
 ### Cards at a glance
+
 #### Fortune cards
 - go to the nearest “X” gate (up to player) x2
 - go to the nearest “H” gate (up to player) x2
@@ -71,7 +72,7 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 - “REWARD card” Won first place during a rose beauty pageant and collect double gates for one round when land on the map (can be saved for later use)
 - “STEERING card” Reverse the order of players (can be saved for later use)
 - “SNATCH card” Steal one type of gate from one other player's hand (the target player will be left with none of that type of gates; can be saved for later use)
-- “LOVE card” Roses in the greenhouse enables to thrive 
+
 
 #### Story cards
 1. 在與玫瑰分離時，小王子終於明白:我愛你，所以待不待在彼此身邊，不再重要(CX+X)
