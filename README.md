@@ -36,6 +36,7 @@ The players are going to collect quantum logic gates (X, H, CX gates) from the m
 - Each player decide one integer between 1-8 as their passcode to the greenhouse. Be aware that other player can guess your number by putting together a quantum circuit generate the binary state maps to your number. (For example, if a player uses X gate on qubit two and generate 010, that means he/she "guess" your passcode to be "3" (we started from 1 instead of 0 in the passcode)
 - Each player picks one token and decide the playing sequence (from the youngest to the oldest), and the host arrange the sequence of the token by the map accordingly as a reminder.
 - All the quantum circuit can be performed and verified through any quantum compiler. We recommend using [IBM Quantum Circuit Composer](https://quantum-computing.ibm.com/composer/) and utilize the "share" function to pass the circuit and result to the host.
+
 ![image](https://user-images.githubusercontent.com/29524895/142136950-05e3cf09-4c38-4259-ad5a-6e7567dd44af.png)
 
 
