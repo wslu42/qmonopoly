@@ -2,7 +2,9 @@
 
 :rose::boy::rose::girl::rose: **A quantum journey towards the Little Prince's flourish Rose Garden.** :rose::boy::rose::girl::rose:
 
-![image](https://user-images.githubusercontent.com/29524895/142133762-26482e8a-d477-4a2f-9fe3-03b1cd823afa.png)
+## :pushpin: **The map and game assets can be found as [Google slides here](https://docs.google.com/presentation/d/1jcWHdNHE96F8VHgpkLUK1k7R-56qhk_4qHq8Zz-n-YA/edit?usp=sharing).**
+
+![image](https://user-images.githubusercontent.com/29524895/142133762-26482e8a-d477-4a2f-9fe3-03b1cd823afa.png) 
 
 ## :family: The story
 Combining with the well-known fable "The Little Prince", we present a quantum online board game allowing quantum novices play together during the pandemic!
@@ -17,7 +19,7 @@ It has been submitted to the [Qiskit Global Hackathon, 2021](https://qiskithacka
 - 建國中學 賴昱錡: Greenhouse system design
 - 陽明高中 謝卓翰: Host system design
 
-## :telescope: The scope and Our proposal
+## :telescope: The Scope and our Proposal
 As the fundamental building block for quantum information science, the idea of Quantum Circuits language is usually confusing for beginners.
 To promote the idea of quantum circuit and let players practice through playing and during the pandemics, we aimed to design a board-game which allows players to compete online with each other by solving quantum circuits which maps to given quantum state set.
 
