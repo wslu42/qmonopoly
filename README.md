@@ -58,6 +58,7 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 :game_die: How the dice work:
 - A plain dice: a simple random 8-faced dice.
 - Remote dice: Player are allow to use gates from their hand in a 3-qubits circuit to project themselves to up to 2 particular spots (the ones closest to the player) predicted by the measurement results. For example if the user puts an H gate at qubit 0 and CX target at qubit 1 and control at qubit 0, then he/she can move to two spots which are 1 and 4 steps away from his/her current location (we started from 1 instead of 0 after translate binary to decimal numbers. For example 000 gives 1 while 011 gives 4) The player will then be able to perform up to two interactions as described in the second step during the main game phase during the same turn (collect two types of gates/draw a card and collect a gate etc).  
+
 :house_with_garden: How the greenhouse lock (and lock-picking) works
 - At the preparation phase, every player will decide their own passcode and let the host know (an integer between 1 to 8) to protect their greenhouse.
 - During each player's turn, he/she can guess one opponent's passcode by putting together up to two quantum circuits which generate the binary state maps to the passcode. (For example, if a player uses X gate on qubit two and generate 010, that means he/she "guess" the opponent's passcode to be "3" (we started from 1 instead of 0 in the passcode)
