@@ -1,7 +1,7 @@
 # QMonopoly
 **The Little Prince's(Princess's) quantum journey towards his/her flourish rose garden.**
 
-![image](https://user-images.githubusercontent.com/29524895/141688811-42082c55-de54-4a8f-834e-708b4042ca19.png)
+![image](https://user-images.githubusercontent.com/29524895/142133333-4f27f73f-8d2a-44ac-8dcf-2464563bd758.png)
 
 ## The story
 Combining with the well-known fable "The Little Prince", we present a quantum online board game allowing quantum novices play together during the pandemic!
