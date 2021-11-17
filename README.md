@@ -67,7 +67,7 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 - “What does tamed mean? It's something that's been too often neglected. It means to create ties.” go to the nearest “CX” gate (either forward or backward, up to the player) x2
 - “Sometimes, there is no harm in putting off a piece of work until another day.”, take a break for one turn.
 - “Straight ahead you can't go very far.” Fell down on the way and backward three spots
-- Unexpected surge of signal crosstalks and reduce the number of each gates on hand by one for the player.
+- Unexpected surge of signal crosstalks and reduce the number of each gates on hand by one for the player drawing the card.
 
 #### Chance cards
 - "SWAP card": Change the challenge question (can be saved for later use)
