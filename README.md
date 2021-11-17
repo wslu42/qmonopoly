@@ -1,9 +1,9 @@
 # QMonopoly
-The Little Prince's Quantum Garden
+**The Little Prince's(Princess's) quantum journey towards his/her flourish rose garden.**
 
 ![image](https://user-images.githubusercontent.com/29524895/141688811-42082c55-de54-4a8f-834e-708b4042ca19.png)
 
-## The idea
+## The story
 Combining with the well-known fable "The Little Prince", we present a quantum online board game allowing quantum novices play together during the pandemic!
 
 (This game was devleoped during the Qiskit Fall Fest Hachathon and was selected as Second Place award among 6 other projects in the [Taiwan SQCS Quantum Hackathon, 2021](https://qiskitfallfest.hypeinnovation.com/servlet/hype/IMT?documentTableId=396317851979055264&userAction=Browse&templateName=&documentId=1a0c3bc2a3e054f2f9fcce91f3584020))
@@ -15,7 +15,7 @@ Combining with the well-known fable "The Little Prince", we present a quantum on
 - 建國中學 賴昱錡: Bank system design
 - 陽明高中 謝卓翰: Host system design
 
-## The issue description
+## The scope
 As the fundamental building block for quantum information science, the idea of Quantum Circuits language is usually confusing for beginners.
 To promote the idea of quantum circuit and let players practice through playing and during the pandemics, we aimed to design a board-game which allows players to compete online with each other by solving quantum circuits which maps to given quantum state set.
 
@@ -23,10 +23,10 @@ To promote the idea of quantum circuit and let players practice through playing 
 Kids love games, and in this game we adopted the game mechanism from the well-known Monopoly game with the aim that global audiences are more familiar with.
 To make this game suitable to play with adolescents and adults alike, we derived our story line from the fable "The Little Prince".
 
-## Rule 101
+## Game mechanism
 The players are going to collect quantum logic gates (X, H, CX gates) from the monopoly-like game map to put together some quantum circuits which generate the given challenge quantum state set (|000> + |011>, for example). The player will be rewarded with a rose when solved a challenge, and the first player who collected 10 roses will be the winner!
 
-## Procedure:
+## Game rule in detail
 
 ### Preparation phase
 - The host assigns one challenge question (a combination 1 or 2 of quantum states can be obtained from 3-qubit quantum circuits) to each player
@@ -60,13 +60,13 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 ### Cards at a glance
 
 #### Fortune cards
-- “Only the children know what they are looking for.", go to the nearest “X” gate (either forward or backward, up to the player)
-- “You're not a man, you're a mushroom!”, go to the nearest “X” gate (either forward or backward, up to the player)
-- “The thing that is important is the thing that is not seen.”, go to the nearest “H” gate (either forward or backward, up to the player)
-- “The house, the stars, the desert -- what gives them their beauty is something that is invisible!”, go to the nearest “H” gate (either forward or backward, up to the player)
-- “What does tamed mean? It's something that's been too often neglected. It means to create ties.” go to the nearest “CX” gate (either forward or backward, up to the player) x2
-- “Sometimes, there is no harm in putting off a piece of work until another day.”, take a break for one turn.
-- “Straight ahead you can't go very far.” Fell down on the way and backward three spots
+- “*Only the children know what they are looking for.*", go to the nearest X spot (either forward or backward, up to the player)
+- “*You're not a man, you're a mushroom!*”, go to the nearest X spot (either forward or backward, up to the player)
+- “*The thing that is important is the thing that is not seen.*”, go to the nearest H spot (either forward or backward, up to the player)
+- “*The house, the stars, the desert -- what gives them their beauty is something that is invisible!*”, go to the nearest H spot (either forward or backward, up to the player)
+- “*What does tamed mean? It's something that's been too often neglected. It means to create ties.*” go to the nearest CX spot (either forward or backward, up to the player) x2
+- “*Sometimes, there is no harm in putting off a piece of work until another day.*”, take a break for one turn.
+- “*Straight ahead you can't go very far.*” Fell down on the way and backward three spots
 - Unexpected surge of signal crosstalks and reduce the number of each gates on hand by one for the player drawing the card.
 
 #### Chance cards
@@ -80,15 +80,15 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 - “SNATCH card” Steal one type of gate from one other player's hand (the target player will be left with none of that type of gates; can be saved for later use)
 
 #### Story cards
-- “All grown-ups were once children... but only few of them remember it.” (Reward: 3 X gates)
-- “You see, one loves the sunset when one is so sad.” (Reward: 3 X gates)
-- “If you love a flower that lives on a star, it is sweet to look at the sky at night. All the stars are a-bloom with flowers...” (Reward: 1 X and 1 H gates)
-- “In one of the stars I shall be living. In one of them I shall be laughing...You - only you - will have stars that can laugh.” (Reward: 1 X and 1 H gates)
-- “But eyes are blind. You have to look with the heart.”(Reward: 3 H gates)
-- “The most beautiful things in the world cannot be seen or touched, they are felt with the heart.” (Reward: 1 X, 1 H, and 1 CX gates)
-- “The only things you learn are the things you tame” (Reward: 1 H, and 1 CX gates)
-- “But in herself alone she is more important than all the hundreds of you other roses... Because she is my rose.” (Reward: 1 X, and 1 CX gates)
-- “It is the time you have wasted for your rose that makes your rose so important.” (Reward: 1 X, 1 H, and 1 CX gates)
+- “*All grown-ups were once children... but only few of them remember it.*” (Reward: 3 X gates)
+- “*You see, one loves the sunset when one is so sad.*” (Reward: 3 X gates)
+- “*If you love a flower that lives on a star, it is sweet to look at the sky at night. All the stars are a-bloom with flowers...*” (Reward: 1 X and 1 H gates)
+- “*In one of the stars I shall be living. In one of them I shall be laughing...You - only you - will have stars that can laugh.*” (Reward: 1 X and 1 H gates)
+- “*But eyes are blind. You have to look with the heart.*”(Reward: 3 H gates)
+- “*The most beautiful things in the world cannot be seen or touched, they are felt with the heart.*” (Reward: 1 X, 1 H, and 1 CX gates)
+- “*The only things you learn are the things you tame*” (Reward: 1 H, and 1 CX gates)
+- “*But in herself alone she is more important than all the hundreds of you other roses... Because she is my rose.*” (Reward: 1 X, and 1 CX gates)
+- “*It is the time you have wasted for your rose that makes your rose so important.*” (Reward: 1 X, 1 H, and 1 CX gates)
 
 ## Looking for feedbacks!
 Simple as it firstly looks like, the rule and map of this game have been tested and modified extensively to balance and improve playing experience. From the amount of gates on the map, various fortune/chance cards serve as useful (and sometimes surprise!) tools to assist competition, and also the winning condition of rose scores are carefully chosen after our thorough tests. This game is, nevertheless, still under testing and we would like to hear everyone's comment to make it more fun and even competitive. Please try it out and give us some thoughts/feedbacks!
