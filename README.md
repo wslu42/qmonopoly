@@ -1,5 +1,5 @@
 # QMonopoly
-A quantum monopoly game
+The Little Prince's Quantum Garden
 
 ![image](https://user-images.githubusercontent.com/29524895/141688811-42082c55-de54-4a8f-834e-708b4042ca19.png)
 
