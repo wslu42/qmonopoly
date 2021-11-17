@@ -26,7 +26,7 @@ To promote the idea of quantum circuit and let players practice through playing 
 Kids love games, and in this game we adopted the game mechanism from the well-known Monopoly game with the aim that global audiences are more familiar with.
 To make this game suitable to play with adolescents and adults alike, we derived our story line from the fable "The Little Prince".
 
-## :page_with_curl: Game rule in detail
+## :page_with_curl: Game rule walk-through
 
 ### :bulb: Game mechanism
 The players are going to collect quantum logic gates (X, H, CX gates) from the monopoly-like game map to put together some quantum circuits which generate the given challenge quantum state set (|000> + |011>, for example). The player will be rewarded with a rose when solved a challenge, and the first player who collected 10 roses will be the winner!
