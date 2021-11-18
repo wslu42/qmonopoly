@@ -24,7 +24,7 @@ It has been submitted to the [Qiskit Global Hackathon, 2021](https://qiskithacka
 
 ## :telescope: The Scope and our Proposal
 As the fundamental building block for quantum information science, the idea of Quantum Circuits language is usually confusing for beginners.
-To promote the idea of quantum circuit and let players practice through playing and during the pandemics, we aimed to design a board-game which allows players to compete online with each other by solving quantum circuits which maps to given quantum state set.
+To promote the idea of quantum circuit and let players practice through playing during the pandemics, we aimed to design a board-game which allows players to compete online with each other by solving quantum circuits which maps to given quantum state set.
 
 Kids love games, and in this game we adopted the game mechanism from the well-known Monopoly game with the aim that global audiences are more familiar with.
 To make this game suitable to play with adolescents and adults alike, we derived our story line from the fable "The Little Prince".
