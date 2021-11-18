@@ -7,7 +7,7 @@
 
 #### :video_camera: **A quick youtube intro can be also [be found here](https://youtu.be/jqob_k6QFB4).**
 
-![image](https://user-images.githubusercontent.com/29524895/142133762-26482e8a-d477-4a2f-9fe3-03b1cd823afa.png) 
+![image](https://user-images.githubusercontent.com/29524895/142455508-ec200ad0-ed8e-44f5-b75c-e74ea495f4e9.png)
 
 ## :family: The story
 Combining with the well-known fable "The Little Prince", we present a quantum online board game allowing quantum novices play together during the pandemic!
