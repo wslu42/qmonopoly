@@ -1,8 +1,9 @@
 # QMonopoly
 
-#### :boy::rose::girl: A quantum journey towards the Little Prince's flourish Rose Garden. :boy::rose::girl:
+:boy::rose::girl: A quantum journey towards the Little Prince's flourish Rose Garden! :boy::rose::girl:
 
 #### :pushpin: **The map and game assets can be found as [Google slides here](https://docs.google.com/presentation/d/1jcWHdNHE96F8VHgpkLUK1k7R-56qhk_4qHq8Zz-n-YA/edit?usp=sharing).**
+#### :pushpin: **The introductory presentation can be found as [Google slides here](https://docs.google.com/presentation/d/1VdahqhNjnQ7NbrNplNcZZ1QbPQvnWgLPQccq4-pJVU0/edit#slide=id.g10257fcb1a4_3_25).**
 
 #### :video_camera: **A quick youtube intro can be also [be found here](https://youtu.be/jqob_k6QFB4).**
 
