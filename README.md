@@ -5,7 +5,7 @@
 #### :pushpin: **The map and game assets can be found as [Google slides here](https://docs.google.com/presentation/d/1jcWHdNHE96F8VHgpkLUK1k7R-56qhk_4qHq8Zz-n-YA/edit?usp=sharing).**
 #### :pushpin: **The introductory presentation can be found as [Google slides here](https://docs.google.com/presentation/d/1VdahqhNjnQ7NbrNplNcZZ1QbPQvnWgLPQccq4-pJVU0/edit#slide=id.g10257fcb1a4_3_25).**
 
-#### :video_camera: **A quick youtube intro can be also [be found here](https://youtu.be/jqob_k6QFB4).**
+#### :video_camera: **A quick youtube intro can be also [be found here](https://youtu.be/sygbvzi5DZ8). Stay entangled and Have fun!**
 
 ![image](https://user-images.githubusercontent.com/29524895/142455508-ec200ad0-ed8e-44f5-b75c-e74ea495f4e9.png)
 
