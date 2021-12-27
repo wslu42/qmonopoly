@@ -106,3 +106,6 @@ Currently this game is implemented as a Google slide deck which allows all playe
 
 ## :gem: Looking for feedbacks!
 Simple as it may appear, we actually tested this game extensively to balance and improve the gaming experience. The amount of gates, various fortune/chance cards, and also the winning condition are carefully chosen after thorough tests. This game is, nevertheless, still under testing and we would love to hear everyone's comment to make it more fun and even competitive. Please try it out and give us some thoughts/feedbacks!
+
+## 意義與貢獻
+量子資訊是近年興起的熱門學科，其操作邏輯與使用方式均與古典數位邏輯的零與一大相逕庭，而如何培育量子資訊人才、使用量子的語言建構量子演算法也成了近年此領域的重要議題。在這個桌遊裡，我們設計了需要使用量子資訊的遊戲規則如使用量子閘做遙控骰子、使用量子電路破解溫室密碼等，輔以平易近人的大富翁系統，期望在寓教於樂中培養自身與同儕成為下一代的量子原住民。此外，在融入了以小王子為故事背景後，我們也希望讓大眾能有機會學到知識外，能從卡牌的故事格言裡得到啟發。期望這款兼具尖端科技與人文背景的桌遊，能為推廣台灣的量子資訊科學略盡棉薄之力。
